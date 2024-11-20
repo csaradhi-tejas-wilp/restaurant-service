@@ -30,7 +30,7 @@ import com.bits.pilani.restaurantservice.to.SuccessResponseTO;
 
 @RestController
 @ResponseBody
-@RequestMapping("/menu")
+@RequestMapping("/restaurant/menu")
 public class MenuController {
 
 	@Autowired
