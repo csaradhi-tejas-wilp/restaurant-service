@@ -75,10 +75,10 @@
         </dependency>
 
         <!-- Eureka Client -->
-        <dependency>
+        <!-- <dependency>
             <groupId>org.springframework.cloud</groupId>
             <artifactId>spring-cloud-starter-netflix-eureka-client</artifactId>
-        </dependency>
+        </dependency> -->
 
         <!-- Spring Boot Test Starter -->
         <dependency>
@@ -88,12 +88,12 @@
         </dependency>
 
         <!-- Spring Boot DevTools for live reload -->
-        <dependency>
+        <!-- <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-devtools</artifactId>
             <scope>runtime</scope>
             <optional>true</optional>
-        </dependency>
+        </dependency> -->
     </dependencies>
 
     <dependencyManagement>
